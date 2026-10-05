@@ -118,6 +118,3 @@ The Power BI dashboard provides an interactive way to explore these insights and
 ![E-commercer Customer Purchase & Sales Analysis](Dashboard.png)
 
 
-Aspiring Data Analyst
-
-Skills: **Excel | SQL | Python | Power BI**
